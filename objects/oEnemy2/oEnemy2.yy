@@ -4,6 +4,7 @@
     "mvc": "1.0",
     "name": "oEnemy2",
     "eventList": [
+<<<<<<< HEAD
         {
             "id": "d070c16a-3611-4f22-9f82-202e618b85a0",
             "modelName": "GMEvent",
@@ -24,6 +25,9 @@
             "eventtype": 3,
             "m_owner": "6566b4d3-0b26-4757-9b00-2b16befaf806"
         }
+=======
+        
+>>>>>>> 672a49889af6ec300e920b583fc0c0ea4a2f2f04
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -60,6 +64,10 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
+<<<<<<< HEAD
     "spriteId": "902e5173-2c50-48f7-bc5c-10005f180cba",
+=======
+    "spriteId": "42e8cab0-ae60-4d36-894f-8902a8574565",
+>>>>>>> 672a49889af6ec300e920b583fc0c0ea4a2f2f04
     "visible": true
 }

@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 x = oPlayer.x+20;
 y = oPlayer.y+4.5;
+=======
+x = oPlayer.x+11;
+y = oPlayer.y+6;
+>>>>>>> 672a49889af6ec300e920b583fc0c0ea4a2f2f04
 
 image_angle = point_direction(x, y, mouse_x, mouse_y);
 
